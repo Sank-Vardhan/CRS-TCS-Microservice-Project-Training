@@ -1,0 +1,8 @@
+package com.tcs.constant;
+
+public class SQLQueries {
+	
+	//Student Queries
+	public static final String ADD_STUDENT = "insert into student (name,emailid,branchname,address,isapproved,roleid) values (?,?,?,?,?,?)";
+
+}

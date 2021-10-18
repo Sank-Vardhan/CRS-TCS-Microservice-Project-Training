@@ -1,0 +1,6 @@
+package com.tcs.dao;
+
+
+public class UserDAOImp implements UserDAOInterface {
+
+}

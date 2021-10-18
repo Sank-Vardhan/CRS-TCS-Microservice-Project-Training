@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.tcs.dao.ProfessorDAOInterface"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="com.tcs.dao.UserDAOInterface"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Conditional"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Configurable"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="com.tcs.dao.AdminDAOInterface"/>
+    <fullyQualifiedTypeName name="com.tcs.dao.AdminDAOImp"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="java.io.InputStream"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="com.tcs.service.AdminService"/>
+    <fullyQualifiedTypeName name="com.tcs.service.NotificationService"/>
+    <fullyQualifiedTypeName name="com.tcs.service.ProfessorService"/>
+    <fullyQualifiedTypeName name="com.tcs.service.StudentService"/>
+    <fullyQualifiedTypeName name="com.tcs.service.UserService"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.tcs.dao.StudentDAOImp"/>
+    <fullyQualifiedTypeName name="com.tcs.dao.StudentDAOInterface"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.tcs.bean.User"/>
+    <fullyQualifiedTypeName name="com.tcs.bean.Professor"/>
+    <fullyQualifiedTypeName name="com.tcs.bean.Course"/>
+    <fullyQualifiedTypeName name="com.tcs.bean.Student"/>
+</qualifiedTypeNameHistroy>

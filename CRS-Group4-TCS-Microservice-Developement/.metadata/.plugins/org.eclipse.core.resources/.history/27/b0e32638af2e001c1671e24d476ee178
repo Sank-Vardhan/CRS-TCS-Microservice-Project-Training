@@ -1,0 +1,9 @@
+package com.tcs.dao;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class StudentDAOImp implements StudentDAOInterface{
+		
+
+}

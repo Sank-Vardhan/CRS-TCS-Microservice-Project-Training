@@ -1,0 +1,19 @@
+package com.tcs.bean;
+
+public class User {
+	private String userId;
+	private String name;
+	private Role role;
+	private String password;
+	
+	public User(String userId, String name, Role role, String password, Gender gender, String address,
+			String country) {
+		super();
+		this.userId = userId;
+		this.name = name;
+		this.role = role;
+		this.password = password;
+	}
+	
+
+}
